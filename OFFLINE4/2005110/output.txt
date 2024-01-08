@@ -1,0 +1,24 @@
+Pamukkale is eliminated.
+They can win at most 39 + 7 = 46 games.
+Hathazari has won a total of 47 games.
+They play each other 0 times.
+So on average, each of the teams wins 47/1 = 47 games.
+
+Kathalbagan is eliminated.
+They can win at most 33 + 7 = 40 games.
+Hathazari has won a total of 47 games.
+They play each other 0 times.
+So on average, each of the teams wins 47/1 = 47 games.
+
+Chandranath is eliminated.
+They can win at most 34 + 5 = 39 games.
+Hathazari has won a total of 47 games.
+They play each other 0 times.
+So on average, each of the teams wins 47/1 = 47 games.
+
+Purulia is eliminated.
+They can win at most 35 + 7 = 42 games.
+Hathazari has won a total of 47 games.
+They play each other 0 times.
+So on average, each of the teams wins 47/1 = 47 games.
+
